@@ -10,14 +10,14 @@ import img5 from "../Assets/5.png"
 
 
 const headingOptions = {
-    pos:'absolute',
-    left:"28%",
-    top:"45%",
-    transfrom:"translate(-50%,-50%)",
-    textTransfrom:"uppercase",
-    padding:"4",
-    size: "4xl"
-}
+    pos: 'absolute',
+    left: '50%',
+    top: '50%',
+    transform: 'translate(-50%,-50%)',
+    textTransform: 'uppercase',
+    p: '4',
+    size: '4xl',
+  };
 
 const Home = () => {
     return (
